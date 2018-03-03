@@ -4,7 +4,9 @@
 This repo contains data on all NFL games from 1920 to present. Most of the data is from
 [pro-football-reference.com](https://www.pro-football-reference.com) in conjunction with
 [fivethirtyeight](https://github.com/fivethirtyeight/data/tree/master/nfl-elo).
-Details on the files are below:
+Details on the files are below.
+
+## data
 
 - `data/nfl_results_1920-1969.csv` contains data on NFL games pre-merger (era 1).
     
@@ -64,3 +66,8 @@ Each file looks something like this:
 - `home.elo.538` (numeric): The home team's Elo score as produced by fivethirtyeight.
 
 - `home.prob.538` (numeric): The probability of the home team winning, as predicted by fivethirtyeight.
+
+## scripts
+
+- `R/validate_data.R` is a script to validate the datasets, ensuring that proper columns
+  add up correctly.
