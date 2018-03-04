@@ -20,7 +20,7 @@
 "https://www.pro-football-reference.com/boxscores/192010170cbd.htm",1,1920-10-17,1920,7,0,0,"Cleveland Tigers","CTI","Canton Bulldogs","CBD",0,0,0,7,7,0,7,1,1469.414,1527.799,0.670458862782875
 "https://www.pro-football-reference.com/boxscores/192010170cht.htm",1,1920-10-17,1920,7,0,0,"Detroit Heralds","DHR","Chicago Tigers","CHT",0,0,0,12,6,6,12,1,1510.196,1305.377,0.308986267497049
 "https://www.pro-football-reference.com/boxscores/192010170akr.htm",1,1920-10-17,1920,7,0,0,"Cincinnati Celts","CNC","Akron Pros","AKR",0,0,0,13,13,0,13,1,1300,1540.552,0.853071676597778
-NA,1,1920-10-17,1920,7,0,0,NA,"COL",NA,"FTW",0,0,0,14,14,0,14,1,1457.2,1300,0.370342943918312
+"https://www.pro-football-reference.com/boxscores/192010170ftw.htm",1,1920-10-17,1920,7,0,0,"Columbus Panhandles","COL","Fort Wayne Friars","FTW",0,0,0,14,14,0,14,1,1457.2,1300,0.370342943918312
 "https://www.pro-football-reference.com/boxscores/192010170day.htm",1,1920-10-17,1920,7,0,0,"Hammond Pros","HAM","Dayton Triangles","DAY",0,0,0,44,37,7,44,1,1426.99,1510.527,0.701624940606428
 "https://www.pro-football-reference.com/boxscores/192010170crd.htm",1,1920-10-17,1920,7,0,0,"Moline Universal Tractors","MUT","Chicago Cardinals","ARI",0,0,0,33,33,0,33,1,1281.8,1487.625,0.826208953938049
 "https://www.pro-football-reference.com/boxscores/192010170rii.htm",1,1920-10-17,1920,7,0,0,"Decatur Staleys","CHI","Rock Island Independents","RII",7,7,0,0,0,0,7,0,1402.774,1559.405,0.781735802673622
@@ -38,57 +38,57 @@ NA,1,1920-10-17,1920,7,0,0,NA,"COL",NA,"FTW",0,0,0,14,14,0,14,1,1457.2,1300,0.37
 "https://www.pro-football-reference.com/boxscores/192010310rii.htm",1,1920-10-31,1920,9,0,0,"Chicago Tigers","CHT","Rock Island Independents","RII",7,7,0,20,20,0,13,1,1321.666,1538.166,0.834856389469119
 "https://www.pro-football-reference.com/boxscores/192010310day.htm",1,1920-10-31,1920,9,0,0,"Cincinnati Celts","CNC","Dayton Triangles","DAY",7,0,7,23,9,14,16,1,1293.191,1529.368,0.849886887823208
 "https://www.pro-football-reference.com/boxscores/192010310cbd.htm",1,1920-10-31,1920,9,0,0,"Akron Pros","AKR","Canton Bulldogs","CBD",10,3,7,0,0,0,10,0,1558.607,1543.215,0.570910419232084
-NA,1,1920-10-31,1920,9,0,0,NA,"HAM",NA,"LOG",14,14,0,9,9,0,5,0,1405.71,1300,0.441680256189917
-NA,1,1920-10-31,1920,9,0,0,NA,"CHI",NA,"RCK",29,29,0,0,0,0,29,0,1460.492,1300,0.365934909878537
+"https://www.pro-football-reference.com/boxscores/192010310log.htm",1,1920-10-31,1920,9,0,0,"Hammond Pros","HAM","Logan Square","LOG",14,14,0,9,9,0,5,0,1405.71,1300,0.441680256189917
+"https://www.pro-football-reference.com/boxscores/192010310rck.htm",1,1920-10-31,1920,9,0,0,"Decatur Staleys","CHI","Rockford A. C.","RCK",29,29,0,0,0,0,29,0,1460.492,1300,0.365934909878537
 "https://www.pro-football-reference.com/boxscores/192011070rii.htm",1,1920-11-07,1920,10,0,0,"Decatur Staleys","CHI","Rock Island Independents","RII",0,0,0,0,0,0,0,0.5,1484.349,1545.894,0.674465389770606
 "https://www.pro-football-reference.com/boxscores/192011070bff.htm",1,1920-11-07,1920,10,0,0,"All Tonawanda","ATN","Buffalo All-Americans","BFF",0,0,0,35,35,0,35,1,1300,1542.193,0.854251741895155
 "https://www.pro-football-reference.com/boxscores/192011070cht.htm",1,1920-11-07,1920,10,0,0,"Chicago Cardinals","ARI","Chicago Tigers","CHT",6,6,0,3,3,0,3,0,1507.955,1313.938,0.322418040622135
 "https://www.pro-football-reference.com/boxscores/192011070rch.htm",1,1920-11-07,1920,10,0,0,"Utica K. of C.","UTI","Rochester Jeffersons","RCH",7,7,0,27,27,0,20,1,1310.382,1501.719,0.813906216536874
-NA,1,1920-11-07,1920,10,0,0,NA,"COL",NA,"ZAN",10,10,0,0,0,0,10,0,1394.807,1300,0.457209209875749
-NA,1,1920-11-07,1920,10,0,0,NA,"HAM",NA,"PUL",14,14,0,13,13,0,1,0,1421.25,1300,0.419749688363779
+"https://www.pro-football-reference.com/boxscores/192011070zan.htm",1,1920-11-07,1920,10,0,0,"Columbus Panhandles","COL","Zanesville Mark Gray","ZAN",10,10,0,0,0,0,10,0,1394.807,1300,0.457209209875749
+"https://www.pro-football-reference.com/boxscores/192011070pul.htm",1,1920-11-07,1920,10,0,0,"Hammond Pros","HAM","Pullman Thorns","PUL",14,14,0,13,13,0,1,0,1421.25,1300,0.419749688363779
 "https://www.pro-football-reference.com/boxscores/192011070cti.htm",1,1920-11-07,1920,10,0,0,"Canton Bulldogs","CBD","Cleveland Tigers","CTI",18,14,4,0,0,0,18,0,1515.204,1459.443,0.513292856669841
-NA,1,1920-11-11,1920,11,0,0,NA,"RII",NA,"THO",7,7,0,7,0,7,0,0.5,1540.573,1300,0.26684690600891
-NA,1,1920-11-11,1920,11,0,0,NA,"CHI",NA,"CHL",20,20,0,0,0,0,20,0,1489.67,1300,0.327908869597613
-NA,1,1920-11-14,1920,11,0,0,NA,"DHR",NA,"FTW",0,0,0,0,0,0,0,0.5,1460.271,1335.595,0.41495403298762
+"https://www.pro-football-reference.com/boxscores/192011110tho.htm",1,1920-11-11,1920,11,0,0,"Rock Island Independents","RII","Thorn Tornadoes","THO",7,7,0,7,0,7,0,0.5,1540.573,1300,0.26684690600891
+"https://www.pro-football-reference.com/boxscores/192011110chl.htm",1,1920-11-11,1920,11,0,0,"Decatur Staleys","CHI","Champaign Legion","CHL",20,20,0,0,0,0,20,0,1489.67,1300,0.327908869597613
+"https://www.pro-football-reference.com/boxscores/192011140ftw.htm",1,1920-11-14,1920,11,0,0,"Detroit Heralds","DHR","Fort Wayne Friars","FTW",0,0,0,0,0,0,0,0.5,1460.271,1335.595,0.41495403298762
 "https://www.pro-football-reference.com/boxscores/192011140crd.htm",1,1920-11-14,1920,11,0,0,"Cincinnati Celts","CNC","Chicago Cardinals","ARI",0,0,0,20,13,7,20,1,1285.709,1516.399,0.845812520321243
 "https://www.pro-football-reference.com/boxscores/192011140cbd.htm",1,1920-11-14,1920,11,0,0,"Chicago Tigers","CHT","Canton Bulldogs","CBD",0,0,0,21,7,14,21,1,1305.494,1545.558,0.852719226820482
-NA,1,1920-11-14,1920,11,0,0,NA,"CHI",NA,"MNM",3,3,0,0,0,0,3,0,1508.566,1300,0.304399963546868
+"https://www.pro-football-reference.com/boxscores/192011140mnm.htm",1,1920-11-14,1920,11,0,0,"Decatur Staleys","CHI","Minneapolis Marines","MNN",3,3,0,0,0,0,3,0,1508.566,1300,0.304399963546868
 "https://www.pro-football-reference.com/boxscores/192011140rch.htm",1,1920-11-14,1920,11,0,0,"All Tonawanda","ATN","Rochester Jeffersons","RCH",6,6,0,0,0,0,6,0,1290.834,1511.868,0.838423423214475
-NA,1,1920-11-14,1920,11,0,0,NA,"HAM",NA,"GAR",6,6,0,7,7,0,1,1,1426.924,1300,0.411815994724368
+"https://www.pro-football-reference.com/boxscores/192011140gar.htm",1,1920-11-14,1920,11,0,0,"Hammond Pros","HAM","Gary Elks","GAR",6,6,0,7,7,0,1,1,1426.924,1300,0.411815994724368
 "https://www.pro-football-reference.com/boxscores/192011140cti.htm",1,1920-11-14,1920,11,0,0,"Akron Pros","AKR","Cleveland Tigers","CTI",7,7,0,7,7,0,0,0.5,1586.618,1429.088,0.369900079588421
 "https://www.pro-football-reference.com/boxscores/192011140bff.htm",1,1920-11-14,1920,11,0,0,"Columbus Panhandles","COL","Buffalo All-Americans","BFF",7,7,0,43,43,0,36,1,1416.441,1551.359,0.759660755734457
 "https://www.pro-football-reference.com/boxscores/192011140rii.htm",1,1920-11-14,1920,11,0,0,"Dayton Triangles","DAY","Rock Island Independents","RII",21,21,0,0,0,0,21,0,1536.85,1533.462,0.587748898962816
-NA,1,1920-11-21,1920,12,0,0,NA,"COL",NA,"ZAN",0,0,0,0,0,0,0,0.5,1400.53,1278.366,0.418468764480915
+"https://www.pro-football-reference.com/boxscores/192011210zan.htm",1,1920-11-21,1920,12,0,0,"Columbus Panhandles","COL","Zanesville Mark Gray","ZAN",0,0,0,0,0,0,0,0.5,1400.53,1278.366,0.418468764480915
 "https://www.pro-football-reference.com/boxscores/192011210akr.htm",1,1920-11-21,1920,12,0,0,"Dayton Triangles","DAY","Akron Pros","AKR",0,0,0,13,13,0,13,1,1574.232,1582.65,0.604111931278009
 "https://www.pro-football-reference.com/boxscores/192011210cti.htm",1,1920-11-21,1920,12,0,0,"Toledo Maroons","TLM","Cleveland Tigers","CTI",0,0,0,14,14,0,14,1,1278.649,1433.056,0.779543521192465
 "https://www.pro-football-reference.com/boxscores/192011210crd.htm",1,1920-11-21,1920,12,0,0,"Lansing Oldsmobile","LAN","Chicago Cardinals","ARI",0,0,0,14,14,0,14,1,1300,1524.675,0.841242667899366
 "https://www.pro-football-reference.com/boxscores/192011210rch.htm",1,1920-11-21,1920,12,0,0,"Rochester Scalpers","ROS","Rochester Jeffersons","RCH",0,0,0,16,14,2,16,1,1300,1474.362,0.798650051078236
 "https://www.pro-football-reference.com/boxscores/192011210bff.htm",1,1920-11-21,1920,12,0,0,"Canton Bulldogs","CBD","Buffalo All-Americans","BFF",3,3,0,0,0,0,3,0,1553.555,1567.27,0.611380776766859
 "https://www.pro-football-reference.com/boxscores/192011210chi.htm",1,1920-11-21,1920,12,0,0,"Hammond Pros","HAM","Decatur Staleys","CHI",7,7,0,28,28,0,21,1,1418.534,1516.489,0.718704463008039
-NA,1,1920-11-25,1920,13,0,0,NA,"COL",NA,"ELY",0,0,0,0,0,0,0,0.5,1398.043,1300,0.452590155627202
+"https://www.pro-football-reference.com/boxscores/192011250ely.htm",1,1920-11-25,1920,13,0,0,"Columbus Panhandles","COL","Elyria Athletics","ELY",0,0,0,0,0,0,0,0.5,1398.043,1300,0.452590155627202
 "https://www.pro-football-reference.com/boxscores/192011250akr.htm",1,1920-11-25,1920,13,0,0,"Canton Bulldogs","CBD","Akron Pros","AKR",0,0,0,7,7,0,7,1,1571.135,1602.871,0.635725040733323
-NA,1,1920-11-25,1920,13,0,0,NA,"HAM",NA,"CHB",0,0,0,27,27,0,27,1,1402.343,1300,0.446465095519741
+"https://www.pro-football-reference.com/boxscores/192011250chb.htm",1,1920-11-25,1920,13,0,0,"Hammond Pros","HAM","Chicago Boosters","CHB",0,0,0,27,27,0,27,1,1402.343,1300,0.446465095519741
 "https://www.pro-football-reference.com/boxscores/192011250day.htm",1,1920-11-25,1920,13,0,0,"Detroit Heralds","DHR","Dayton Triangles","DAY",0,0,0,28,28,0,28,1,1457.677,1554.012,0.716815308846942
 "https://www.pro-football-reference.com/boxscores/192011250cht.htm",1,1920-11-25,1920,13,0,0,"Decatur Staleys","CHI","Chicago Tigers","CHT",6,6,0,0,0,0,6,0,1532.679,1297.498,0.272963105415399
 "https://www.pro-football-reference.com/boxscores/192011250rch.htm",1,1920-11-25,1920,13,0,0,"All Tonawanda","ATN","Rochester Jeffersons","RCH",14,0,14,3,3,0,11,0,1328.34,1484.651,0.781421336812093
 "https://www.pro-football-reference.com/boxscores/192011280dhr.htm",1,1920-11-28,1920,13,0,0,"Lansing Oldsmobile","LAN","Detroit Heralds","DHR",0,0,0,0,0,0,0,0.5,1292.402,1439.909,0.772641768635172
 "https://www.pro-football-reference.com/boxscores/192011280bff.htm",1,1920-11-28,1920,13,0,0,"Cleveland Tigers","CTI","Buffalo All-Americans","BFF",0,0,0,7,7,0,7,1,1443.913,1549.69,0.727717231096192
-"https://www.pro-football-reference.com/boxscores/192011280cht.htm",1,1920-11-28,1920,13,0,0,"Thorn Tornados","THO","Chicago Tigers","CHT",0,0,0,27,27,0,27,1,1307.111,1287.638,0.565146176095177
+"https://www.pro-football-reference.com/boxscores/192011280cht.htm",1,1920-11-28,1920,13,0,0,"Thorn Tornadoes","THO","Chicago Tigers","CHT",0,0,0,27,27,0,27,1,1307.111,1287.638,0.565146176095177
 "https://www.pro-football-reference.com/boxscores/192011280crd.htm",1,1920-11-28,1920,13,0,0,"Decatur Staleys","CHI","Chicago Cardinals","ARI",6,0,6,7,0,7,1,1,1542.54,1532.273,0.578121933754097
-NA,1,1920-11-28,1920,13,0,0,NA,"RCH",NA,"ROS",7,7,0,6,6,0,1,0,1441.473,1289.71,0.377670405240549
+"https://www.pro-football-reference.com/boxscores/192011280ros.htm",1,1920-11-28,1920,13,0,0,"Rochester Jeffersons","RCH","Rochester Scalpers","ROS",7,7,0,6,6,0,1,0,1441.473,1289.71,0.377670405240549
 "https://www.pro-football-reference.com/boxscores/192011280rii.htm",1,1920-11-28,1920,13,0,0,"Washington and Jeffe Collegians","WJA","Rock Island Independents","RII",7,7,0,48,28,20,41,1,1300,1496.08,0.818006199214485
 "https://www.pro-football-reference.com/boxscores/192011280day.htm",1,1920-11-28,1920,13,0,0,"Akron Pros","AKR","Dayton Triangles","DAY",14,7,7,0,0,0,14,0,1617.382,1571.78,0.527886995550508
 "https://www.pro-football-reference.com/boxscores/192012040bff.htm",1,1920-12-04,1920,14,0,0,"Canton Bulldogs","CBD","Buffalo All-Americans","BFF",3,3,0,7,0,7,4,1,1556.623,1560.198,0.597425503593105
 "https://www.pro-football-reference.com/boxscores/192012050bff.htm",1,1920-12-05,1920,14,0,0,"Akron Pros","AKR","Buffalo All-Americans","BFF",0,0,0,0,0,0,0,0.5,1646.228,1572.764,0.487821733929807
-NA,1,1920-12-05,1920,14,0,0,NA,"RCH",NA,"ROS",0,0,0,0,0,0,0,0.5,1446.51,1284.673,0.364140329396717
-NA,1,1920-12-05,1920,14,0,0,NA,"CBD",NA,"WGC",0,0,0,0,0,0,0,0.5,1544.056,1300,0.262942759700645
+"https://www.pro-football-reference.com/boxscores/192012050ros.htm",1,1920-12-05,1920,14,0,0,"Rochester Jeffersons","RCH","Rochester Scalpers","ROS",0,0,0,0,0,0,0,0.5,1446.51,1284.673,0.364140329396717
+"https://www.pro-football-reference.com/boxscores/192012050wgc.htm",1,1920-12-05,1920,14,0,0,"Canton Bulldogs","CBD","Washington Glee Club","WGC",0,0,0,0,0,0,0,0.5,1544.056,1300,0.262942759700645
 "https://www.pro-football-reference.com/boxscores/192012050col.htm",1,1920-12-05,1920,14,0,0,"Columbus Wagner Pirates","CWP","Columbus Panhandles","COL",0,0,0,24,24,0,24,1,1300,1396.597,0.71712135854779
 "https://www.pro-football-reference.com/boxscores/192012050dhr.htm",1,1920-12-05,1920,14,0,0,"Detroit Maroons","DTM","Detroit Heralds","DHR",7,0,7,7,7,0,0,0.5,1300,1431.594,0.756149916544416
 "https://www.pro-football-reference.com/boxscores/192012050crd.htm",1,1920-12-05,1920,14,0,0,"Decatur Staleys","CHI","Chicago Cardinals","ARI",10,10,0,0,0,0,10,0,1536.833,1537.98,0.594059464986356
-NA,1,1920-12-11,1920,15,0,0,NA,"CBD",NA,"UAP",7,7,0,13,13,0,6,1,1536.826,1300,0.271087911975171
+"https://www.pro-football-reference.com/boxscores/192012110uap.htm",1,1920-12-11,1920,15,0,0,"Canton Bulldogs","CBD","Union A. A.","UAP",7,7,0,13,7,6,6,1,1536.826,1300,0.271087911975171
 "https://www.pro-football-reference.com/boxscores/192012120chi.htm",1,1920-12-12,1920,15,0,0,"Akron Pros","AKR","Decatur Staleys","CHI",0,0,0,0,0,0,0,0.5,1645.856,1566.206,0.47892944143329
-NA,1,1920-12-18,1920,16,0,0,NA,"CBD",NA,"RIC",39,39,0,0,0,0,39,0,1506.055,1300,0.307469187915628
-NA,1,1920-12-19,1920,16,0,0,NA,"ARI",NA,"CST",14,7,7,14,14,0,0,0.5,1508.607,1300,0.304349991896156
+"https://www.pro-football-reference.com/boxscores/192012180ric.htm",1,1920-12-18,1920,16,0,0,"Canton Bulldogs","CBD","Richmond Athletics","RIC",39,39,0,0,0,0,39,0,1506.055,1300,0.307469187915628
+"https://www.pro-football-reference.com/boxscores/192012190cst.htm",1,1920-12-19,1920,16,0,0,"Chicago Cardinals","ARI","Chicago Stayms","CST",14,14,0,14,7,7,0,0.5,1508.607,1300,0.304349991896156
 "https://www.pro-football-reference.com/boxscores/192109250akr.htm",1,1921-09-25,1921,56,0,0,"Columbus Panhandles","COL","Akron Pros","AKR",0,0,0,14,14,0,14,1,1444.042,1598.476,0.779570230573563
 "https://www.pro-football-reference.com/boxscores/192110020rii.htm",1,1921-10-02,1921,57,0,0,"Detroit Tigers","DTI","Rock Island Independents","RII",0,0,0,0,0,0,0,0.5,1300,1507.161,0.827310465706254
 "https://www.pro-football-reference.com/boxscores/192110020bff.htm",1,1921-10-02,1921,57,0,0,"Hammond Pros","HAM","Buffalo All-Americans","BFF",0,0,0,17,10,7,17,1,1411.544,1550.424,0.763800099382364
@@ -102,7 +102,7 @@ NA,1,1920-12-19,1920,16,0,0,NA,"ARI",NA,"CST",14,7,7,14,14,0,0,0.5,1508.607,1300
 "https://www.pro-football-reference.com/boxscores/192110090dti.htm",1,1921-10-09,1921,58,0,0,"Dayton Triangles","DAY","Detroit Tigers","DTI",7,7,0,10,3,7,3,1,1548.174,1309.982,0.269536923981666
 "https://www.pro-football-reference.com/boxscores/192110090crd.htm",1,1921-10-09,1921,58,0,0,"Akron Pros","AKR","Chicago Cardinals","ARI",23,23,0,0,0,0,23,0,1628.139,1527.647,0.44909983895731
 "https://www.pro-football-reference.com/boxscores/192110100chi.htm",1,1921-10-10,1921,58,0,0,"Rock Island Independents","RII","Chicago Staleys","CHI",10,10,0,14,14,0,4,1,1497.179,1546.233,0.658484428915544
-"https://www.pro-football-reference.com/boxscores/192110160bff.htm",1,1921-10-16,1921,59,0,0,"New York Brickley Giants","NG1","Buffalo All-Americans","BFF",0,0,0,55,48,7,55,1,1300,1578.103,0.878153530089477
+"https://www.pro-football-reference.com/boxscores/192110160bff.htm",1,1921-10-16,1921,59,0,0,"New York Brickley Giants","NBG","Buffalo All-Americans","BFF",0,0,0,55,48,7,55,1,1300,1578.103,0.878153530089477
 "https://www.pro-football-reference.com/boxscores/192110160ecg.htm",1,1921-10-16,1921,59,0,0,"Hammond Pros","HAM","Evansville Crimson Giants","ECG",3,3,0,0,0,0,3,0,1406.508,1369.434,0.540102420632255
 "https://www.pro-football-reference.com/boxscores/192110160cti.htm",1,1921-10-16,1921,59,0,0,"Columbus Panhandles","COL","Cleveland Indians","CTI",9,7,2,35,35,0,26,1,1400.118,1457.27,0.668888773033415
 "https://www.pro-football-reference.com/boxscores/192110160chi.htm",1,1921-10-16,1921,59,0,0,"Rochester Jeffersons","RCH","Chicago Staleys","CHI",13,6,7,16,10,6,3,1,1463.244,1556.684,0.713420281597344
@@ -147,7 +147,7 @@ NA,1,1920-12-19,1920,16,0,0,NA,"ARI",NA,"CST",14,7,7,14,14,0,0,0.5,1508.607,1300
 "https://www.pro-football-reference.com/boxscores/192111270ecg.htm",1,1921-11-27,1921,65,0,0,"Cincinnati Celts","CCL","Evansville Crimson Giants","ECG",0,0,0,48,48,0,48,1,1482.179,1330.343,0.37757164329537
 "https://www.pro-football-reference.com/boxscores/192111270sen.htm",1,1921-11-27,1921,65,0,0,"Canton Bulldogs","CBD","Washington Senators","SEN",15,15,0,0,0,0,15,0,1600.097,1300,0.2053269608448
 "https://www.pro-football-reference.com/boxscores/192112030bff.htm",1,1921-12-03,1921,66,0,0,"Akron Pros","AKR","Buffalo All-Americans","BFF",0,0,0,14,14,0,14,1,1629.807,1630.21,0.593026239062442
-"https://www.pro-football-reference.com/boxscores/192112030ng1.htm",1,1921-12-03,1921,66,0,0,"Cleveland Indians","CTI","New York Brickley Giants","NG1",17,17,0,0,0,0,17,0,1458.597,1291.514,0.35717722313367
+"https://www.pro-football-reference.com/boxscores/192112030ng1.htm",1,1921-12-03,1921,66,0,0,"Cleveland Indians","CTI","New York Brickley Giants","NBG",17,17,0,0,0,0,17,0,1458.597,1291.514,0.35717722313367
 "https://www.pro-football-reference.com/boxscores/192112040lou.htm",1,1921-12-04,1921,66,0,0,"Columbus Panhandles","COL","Louisville Brecks","LOU",6,6,0,0,0,0,6,0,1327.393,1377.857,0.660307359576621
 "https://www.pro-football-reference.com/boxscores/192112040crd.htm",1,1921-12-04,1921,66,0,0,"Akron Pros","AKR","Chicago Cardinals","ARI",7,7,0,0,0,0,7,0,1608.401,1493.895,0.42923342414719
 "https://www.pro-football-reference.com/boxscores/192112040chi.htm",1,1921-12-04,1921,66,0,0,"Buffalo All-Americans","BFF","Chicago Staleys","CHI",7,0,7,10,3,7,3,1,1651.616,1610.429,0.534216100239949
@@ -272,7 +272,7 @@ NA,1,1920-12-19,1920,16,0,0,NA,"ARI",NA,"CST",14,7,7,14,14,0,0,0.5,1508.607,1300
 "https://www.pro-football-reference.com/boxscores/192310280crd.htm",1,1923-10-28,1923,165,0,0,"Dayton Triangles","DAY","Chicago Cardinals","ARI",3,3,0,13,13,0,10,1,1471.04,1599.317,0.752611996113365
 "https://www.pro-football-reference.com/boxscores/192310280chi.htm",1,1923-10-28,1923,165,0,0,"Buffalo All-Americans","BFF","Chicago Bears","CHI",3,3,0,18,18,0,15,1,1580.998,1588.264,0.602524860277692
 "https://www.pro-football-reference.com/boxscores/192310280gnb.htm",1,1923-10-28,1923,165,0,0,"Racine Legion","RAC","Green Bay Packers","GB",24,24,0,3,3,0,21,0,1473.885,1510.544,0.64226218373805
-"https://www.pro-football-reference.com/boxscores/192311040cli.htm",1,1923-11-04,1923,166,0,0,"Cleveland Indians","BFF","Buffalo All-Americans","CIB",0,0,0,0,0,0,0,0.5,1559.658,1354.966,0.309142382954673
+"https://www.pro-football-reference.com/boxscores/192311040cli.htm",1,1923-11-04,1923,166,0,0,"Cleveland Indians","CIB","Buffalo All-Americans","BFF",0,0,0,0,0,0,0,0.5,1559.658,1354.966,0.309142382954673
 "https://www.pro-football-reference.com/boxscores/192311040chi.htm",1,1923-11-04,1923,166,0,0,"Oorang Indians","OOR","Chicago Bears","CHI",0,0,0,26,20,6,26,1,1315.435,1609.603,0.887707697768742
 "https://www.pro-football-reference.com/boxscores/192311040sla.htm",1,1923-11-04,1923,166,0,0,"Green Bay Packers","GB","St. Louis All-Stars","SLA",3,3,0,0,0,0,3,0,1468.915,1287.116,0.337971039815038
 "https://www.pro-football-reference.com/boxscores/192311040mnn.htm",1,1923-11-04,1923,166,0,0,"Racine Legion","RAC","Minneapolis Marines","MNN",6,6,0,13,13,0,7,1,1515.513,1399.415,0.426989716700655
@@ -615,8 +615,8 @@ NA,1,1920-12-19,1920,16,0,0,NA,"ARI",NA,"CST",14,7,7,14,14,0,0,0.5,1508.607,1300
 "https://www.pro-football-reference.com/boxscores/192612110fyj.htm",1,1926-12-11,1926,328,0,0,"Providence Steam Roller","PRV","Frankford Yellow Jackets","FYJ",0,0,0,24,17,7,24,1,1461.477,1686.048,0.714749525407351
 "https://www.pro-football-reference.com/boxscores/192612120kcb.htm",1,1926-12-12,1926,328,0,0,"Duluth Eskimos","DUL","Kansas City Cowboys","KCB",7,7,0,12,12,0,5,1,1537.93,1528.808,0.579728662040403
 "https://www.pro-football-reference.com/boxscores/192612120chi.htm",1,1926-12-12,1926,328,0,0,"Pottsville Maroons","PTB","Chicago Bears","CHI",7,7,0,9,9,0,2,1,1651.923,1671.919,0.435593848803188
-"https://www.pro-football-reference.com/boxscores/192612180fyj.htm",1,1926-12-18,1926,329,0,0,"Pottsville Maroons","FYJ","Frankford Yellow Jackets","PTB",0,0,0,0,0,0,0,0.5,1703.17,1639.263,0.50157294825264
-"https://www.pro-football-reference.com/boxscores/192612190chi.htm",1,1926-12-19,1926,329,0,0,"Green Bay Packers","CHI","Chicago Bears","GB",3,3,0,3,3,0,0,0.5,1684.579,1596.381,0.466664917017098
+"https://www.pro-football-reference.com/boxscores/192612180fyj.htm",1,1926-12-18,1926,329,0,0,"Pottsville Maroons","PTB","Frankford Yellow Jackets","FYJ",0,0,0,0,0,0,0,0.5,1703.17,1639.263,0.50157294825264
+"https://www.pro-football-reference.com/boxscores/192612190chi.htm",1,1926-12-19,1926,329,0,0,"Green Bay Packers","GB","Chicago Bears","CHI",3,3,0,3,3,0,0,0.5,1684.579,1596.381,0.466664917017098
 "https://www.pro-football-reference.com/boxscores/192709180gnb.htm",1,1927-09-18,1927,368,0,0,"Dayton Triangles","DAY","Green Bay Packers","GB",0,0,0,14,14,0,14,1,1414.883,1566.598,0.776868848326815
 "https://www.pro-football-reference.com/boxscores/192709240fyj.htm",1,1927-09-24,1927,369,0,0,"Dayton Triangles","DAY","Frankford Yellow Jackets","FYJ",6,0,6,3,3,0,3,0,1403.881,1637.145,0.847734991918645
 "https://www.pro-football-reference.com/boxscores/192709250ptb.htm",1,1927-09-25,1927,369,0,0,"Buffalo Bisons","BFF","Pottsville Maroons","PTB",0,0,0,22,22,0,22,1,1462.593,1594.476,0.756456535661138
@@ -680,7 +680,7 @@ NA,1,1920-12-19,1920,16,0,0,NA,"ARI",NA,"CST",14,7,7,14,14,0,0,0.5,1508.607,1300
 "https://www.pro-football-reference.com/boxscores/192711270nyg.htm",1,1927-11-27,1927,378,0,0,"Chicago Bears","CHI","New York Giants","NYG",7,7,0,13,13,0,6,1,1612.248,1668.068,0.667188383711758
 "https://www.pro-football-reference.com/boxscores/192711270prv.htm",1,1927-11-27,1927,378,0,0,"New York Yankees","NYA","Providence Steam Roller","PRV",7,7,0,14,14,0,7,1,1476.497,1466.339,0.578274960480122
 "https://www.pro-football-reference.com/boxscores/192711270crd.htm",1,1927-11-27,1927,378,0,0,"Cleveland Bulldogs","CIB","Chicago Cardinals","ARI",32,32,0,7,7,0,25,0,1518.368,1478.019,0.535416231208356
-"https://www.pro-football-reference.com/boxscores/192712030fyj.htm",1,1927-12-03,1927,379,0,0,"Chicago Bears","FYJ","Frankford Yellow Jackets","CHI",0,0,0,0,0,0,0,0.5,1489.954,1599.969,0.732524208266716
+"https://www.pro-football-reference.com/boxscores/192712030fyj.htm",1,1927-12-03,1927,379,0,0,"Chicago Bears","CHI","Frankford Yellow Jackets","FYJ",0,0,0,0,0,0,0,0.5,1489.954,1599.969,0.732524208266716
 "https://www.pro-football-reference.com/boxscores/192712030cib.htm",1,1927-12-03,1927,379,0,0,"Duluth Eskimos","DUL","Cleveland Bulldogs","CIB",0,0,0,20,20,0,20,1,1459.397,1553.652,0.71437850944333
 "https://www.pro-football-reference.com/boxscores/192712030nya.htm",1,1927-12-03,1927,379,0,0,"Providence Steam Roller","PRV","New York Yankees","NYA",9,3,6,0,0,0,9,0,1483.451,1459.384,0.558636276785988
 "https://www.pro-football-reference.com/boxscores/192712040chi.htm",1,1927-12-04,1927,379,0,0,"Frankford Yellow Jackets","FYJ","Chicago Bears","CHI",0,0,0,9,9,0,9,1,1497.046,1592.878,0.716227179090057
@@ -803,7 +803,7 @@ NA,1,1920-12-19,1920,16,0,0,NA,"ARI",NA,"CST",14,7,7,14,14,0,0,0.5,1508.607,1300
 "https://www.pro-football-reference.com/boxscores/192911240prv.htm",1,1929-11-24,1929,482,0,0,"Boston Bulldogs","PTB","Providence Steam Roller","PRV",6,6,0,20,20,0,14,1,1457.937,1478.319,0.620459330203411
 "https://www.pro-football-reference.com/boxscores/192911240chi.htm",1,1929-11-24,1929,482,0,0,"Buffalo Bisons","BFF","Chicago Bears","CHI",19,12,7,7,7,0,12,0,1266.933,1467.913,0.822167778968736
 "https://www.pro-football-reference.com/boxscores/192911240nyg.htm",1,1929-11-24,1929,482,0,0,"Green Bay Packers","GB","New York Giants","NYG",20,20,0,6,6,0,14,0,1677.923,1660.972,0.568710578215319
-"https://www.pro-football-reference.com/boxscores/192911280fyj.htm",1,1929-11-28,1929,483,0,0,"Green Bay Packers","FYJ","Frankford Yellow Jackets","GB",0,0,0,0,0,0,0,0.5,1598.071,1709.413,0.73401824150954
+"https://www.pro-football-reference.com/boxscores/192911280fyj.htm",1,1929-11-28,1929,483,0,0,"Green Bay Packers","GB","Frankford Yellow Jackets","FYJ",0,0,0,0,0,0,0,0.5,1598.071,1709.413,0.73401824150954
 "https://www.pro-football-reference.com/boxscores/192911280sis.htm",1,1929-11-28,1929,483,0,0,"New York Giants","NYG","Staten Island Stapletons","SIS",21,21,0,7,7,0,14,0,1629.482,1510.507,0.422942647153957
 "https://www.pro-football-reference.com/boxscores/192911280chi.htm",1,1929-11-28,1929,483,0,0,"Chicago Cardinals","ARI","Chicago Bears","CHI",40,40,0,6,6,0,34,0,1457.295,1419.936,0.539694884348119
 "https://www.pro-football-reference.com/boxscores/192912010chi.htm",1,1929-12-01,1929,483,0,0,"Frankford Yellow Jackets","FYJ","Chicago Bears","CHI",0,0,0,0,0,0,0,0.5,1605.208,1381.072,0.285761283640842
@@ -814,7 +814,7 @@ NA,1,1920-12-19,1920,16,0,0,NA,"ARI",NA,"CST",14,7,7,14,14,0,0,0.5,1508.607,1300
 "https://www.pro-football-reference.com/boxscores/192912080nyg.htm",1,1929-12-08,1929,484,0,0,"Frankford Yellow Jackets","FYJ","New York Giants","NYG",0,0,0,31,31,0,31,1,1582.687,1673.351,0.710142043769765
 "https://www.pro-football-reference.com/boxscores/192912080chi.htm",1,1929-12-08,1929,484,0,0,"Green Bay Packers","GB","Chicago Bears","CHI",25,25,0,0,0,0,25,0,1721.261,1387.606,0.175591990666482
 "https://www.pro-football-reference.com/boxscores/192912080tor.htm",1,1929-12-08,1929,484,0,0,"Chicago Cardinals","ARI","Orange Tornadoes","TOR",26,19,7,0,0,0,26,0,1490.636,1506.784,0.614703160803817
-"https://www.pro-football-reference.com/boxscores/192912140fyj.htm",1,1929-12-14,1929,485,0,0,"Orange Tornadoes","TOR","Frankford Yellow Jackets","FRJ",0,0,0,10,10,0,10,1,NA,NA,0.5
+"https://www.pro-football-reference.com/boxscores/192912140fyj.htm",1,1929-12-14,1929,485,0,0,"Orange Tornadoes","TOR","Frankford Yellow Jackets","FYJ",0,0,0,10,10,0,10,1,NA,NA,0.5
 "https://www.pro-football-reference.com/boxscores/192912150chi.htm",1,1929-12-15,1929,485,0,0,"New York Giants","NYG","Chicago Bears","CHI",14,14,0,9,9,0,5,0,1692.115,1377.409,0.191944685108167
 "https://www.pro-football-reference.com/boxscores/193009140det.htm",1,1930-09-14,1930,524,0,0,"Newark Tornadoes","TOR","Portsmouth Spartans","DET",6,6,0,13,13,0,7,1,1478.142,1368.333,0.43586983994221
 "https://www.pro-football-reference.com/boxscores/193009170tor.htm",1,1930-09-17,1930,525,0,0,"New York Giants","NYG","Newark Tornadoes","TOR",32,32,0,0,0,0,32,0,1633.861,1454.193,0.340721176215058
