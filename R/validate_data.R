@@ -11,6 +11,8 @@ validate_data <- function(fp, qb.and.line = FALSE)
   stopifnot(dat$margin == abs(dat$home.score - dat$visitor.score))
   stopifnot(dat$home.wins == score(dat$home.score, dat$visitor.score))
 
+  stopifnot(sort(dat$date) == dat$date)
+
   if(!all(idx <- purrr::map2_lgl(dat$home, dat$home.abbr, ~ .x %in% ABBRS[[.y]])))
   {
     print(select(filter(dat, !idx), pg, home, home.abbr))
