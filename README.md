@@ -67,6 +67,17 @@ Each file looks something like this:
 
 - `home.prob.538` (numeric): The probability of the home team winning, as predicted by fivethirtyeight.
 
+In addition, the games from era 3 have a few additional columns:
+
+- `visitor.qb` (character): The visiting team's starting quarterback.
+
+- `home.qb` (character): The home team's starting quarterback.
+
+- `vegas.line` (character): The Vegas line.
+
+- `home.line` (numeric): The line relative to the home team: negative means the home team is favored, zero
+  means the game is a "pick", and positive means the home team is not favored.
+
 ## scripts
 
 - `R/validate_data.R` is a script to validate the datasets, ensuring that proper columns

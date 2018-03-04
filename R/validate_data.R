@@ -2,7 +2,7 @@ library(tidyverse)
 library(elo)
 source("R/abbreviations.R")
 
-validate_data <- function(fp)
+validate_data <- function(fp, qb.and.line = FALSE)
 {
   dat <- read_csv(fp, col_names = TRUE, col_types = cols())
 
@@ -22,8 +22,17 @@ validate_data <- function(fp)
     print(select(filter(dat, !idx), pg, visitor, visitor.abbr))
     stop("Mismatch between names of teams and abbreviations.")
   }
+
+  if(qb.and.line)
+  {
+    stopifnot(!anyNA(dat$visitor.qb))
+    stopifnot(!anyNA(dat$home.qb))
+    stopifnot(!anyNA(dat$home.line))
+  }
+
   invisible(dat)
 }
 
 validate_data("data/nfl_results_1920-1969.csv")
 validate_data("data/nfl_results_1970-2001.csv")
+validate_data("data/nfl_results_2002-today.csv")
