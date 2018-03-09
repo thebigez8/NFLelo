@@ -77,6 +77,10 @@ In addition, the games from era 3 have a few additional columns:
 
 - `home.line` (numeric): The line relative to the home team: negative means the home team is favored, zero
   means the game is a "pick", and positive means the home team is not favored.
+  
+- `overunder` (numeric): The over/under for the game.
+
+- `roof` (character): The kind of dome the game was played in.
 
 ## scripts
 
