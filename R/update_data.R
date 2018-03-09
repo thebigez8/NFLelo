@@ -71,7 +71,9 @@ if(nrow(results538))
         line.tm == home ~ as.numeric(line),
         line.tm == visitor ~ -as.numeric(line),
         TRUE ~ NA_real_
-      )
+      ),
+      overunder = map_chr(lines.and.qbs, "overunder"),
+      roof = map_chr(lines.and.qbs, "roof")
     ) %>%
     select(-lines.and.qbs, -line, -line.tm, -scores, -scoring)
 

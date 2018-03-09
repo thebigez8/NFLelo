@@ -34,12 +34,27 @@ scrape_qb_and_line <- function(pg)
   print(pg)
   pg2 <- readLines(pg)
 
-  vegas.line <- pg2 %>%
-    my_subset("game_info") %>%
+  gi <- my_subset(pg2, "game_info")
+
+  vegas.line <- gi %>%
     str_subset("Vegas Line") %>%
     str_extract("<td.*</td>") %>%
     innards()
+
+  overunder <- gi %>%
+    str_subset("Over/Under") %>%
+    str_extract("<td.*</td>") %>%
+    innards() %>%
+    str_extract("[\\d\\.]+")
+
+  roof <- gi %>%
+    str_subset("Roof") %>%
+    str_extract("<td.*</td>") %>%
+    innards()
+
   list(vegas.line = vegas.line,
+       overunder = overunder,
+       roof = roof,
        home.qb = get_qb(pg2, "home_starters"),
        vis.qb = get_qb(pg2, "vis_starters"),
        pg = pg)

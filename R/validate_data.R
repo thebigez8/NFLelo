@@ -30,6 +30,8 @@ validate_data <- function(fp, qb.and.line = FALSE)
     stopifnot(!anyNA(dat$visitor.qb))
     stopifnot(!anyNA(dat$home.qb))
     stopifnot(!anyNA(dat$home.line))
+    stopifnot(!anyNA(dat$overunder))
+    stopifnot(!anyNA(dat$roof))
   }
 
   invisible(dat)
