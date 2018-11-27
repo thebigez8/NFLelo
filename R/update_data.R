@@ -7,7 +7,8 @@ era3 <- "data/nfl_results_2002-today.csv" %>%
 
 results538 <- "https://projects.fivethirtyeight.com/nfl-api/nfl_elo.csv" %>%
   read_csv(col_names = TRUE, col_types = cols()) %>%
-  filter(date > max(era3$date))
+  filter(date > max(era3$date)) %>%
+  filter(date < Sys.Date())
 
 if(nrow(results538))
 {
@@ -31,7 +32,7 @@ if(nrow(results538))
   source("R/scrape_scores.R")
   source("R/scrape_qb_and_line.R")
 
-  pgs <- "https://www.pro-football-reference.com/years/2017/" %>%
+  pgs <- "https://www.pro-football-reference.com/years/2018/" %>%
     read_html() %>%
     html_nodes("#inner_nav ul div ul li a") %>%
     html_attr("href") %>%
@@ -45,17 +46,20 @@ if(nrow(results538))
     "["(!(. %in% era3$pg))
 
   pfr <- tibble(
-    pgs = pg,
-    scores = map(pg, scrape_scores),
-    date = as.Date(map_chr(scores, function(x) str_extract(x$pg, "\\d+")), format = "%Y%m%d"),
-    scoring = map(scores, interpret_scoring),
-    boxscore = map(scores, "boxscore"),
-    visitor = map_chr(boxscore, function(x) x[[2]][1]),
-    home = map_chr(boxscore, function(x) x[[2]][2]),
-    visitor.score = map_int(boxscore, function(x) x[["Final"]][1]),
-    home.score = map_int(boxscore, function(x) x[["Final"]][2]),
-    off.def = map(scoring, get_offense_defense_scores)
+    pg = pgs,
+    date = as.Date(map_chr(pg, str_extract, "\\d+"), format = "%Y%m%d")
   ) %>%
+    filter(date < Sys.Date()) %>%
+    mutate(
+      scores = map(pg, scrape_scores),
+      scoring = map(scores, interpret_scoring),
+      boxscore = map(scores, "boxscore"),
+      visitor = map_chr(boxscore, function(x) x[[2]][1]),
+      home = map_chr(boxscore, function(x) x[[2]][2]),
+      visitor.score = map_int(boxscore, function(x) x[["Final"]][1]),
+      home.score = map_int(boxscore, function(x) x[["Final"]][2]),
+      off.def = map(scoring, get_offense_defense_scores)
+    ) %>%
     select(-boxscore, scoring) %>%
     unnest(off.def) %>%
     mutate(
@@ -80,7 +84,8 @@ if(nrow(results538))
   stopifnot(nrow(pfr) == nrow(results.538.clean))
 
   results.538.clean2 <- results.538.clean %>%
-    full_join(pfr, by = c("date", "visitor", "home", "visitor.score", "home.score", "visitor.score"))
+    full_join(pfr, by = c("date", "visitor", "home", "visitor.score", "home.score", "visitor.score")) %>%
+    mutate(overunder = as.numeric(overunder))
   stopifnot(nrow(pfr) == nrow(results.538.clean2))
 
   write.csv(bind_rows(era3, results.538.clean2), "data/nfl_results_2002-today.csv", row.names = FALSE)
