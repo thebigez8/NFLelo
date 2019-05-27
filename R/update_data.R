@@ -6,7 +6,7 @@ era3 <- "data/nfl_results_2002-today.csv" %>%
   read_csv(col_names = TRUE, col_types = cols(), guess_max = 2000)
 
 results538 <- "https://projects.fivethirtyeight.com/nfl-api/nfl_elo.csv" %>%
-  read_csv(col_names = TRUE, col_types = cols()) %>%
+  read_csv(col_names = TRUE, col_types = cols(), guess_max = 2000) %>%
   filter(date > max(era3$date)) %>%
   filter(date < Sys.Date())
 
