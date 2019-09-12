@@ -5,10 +5,26 @@ library(rvest)
 era3 <- "data/nfl_results_2002-today.csv" %>%
   read_csv(col_names = TRUE, col_types = cols(), guess_max = 2000)
 
+
 results538 <- "https://projects.fivethirtyeight.com/nfl-api/nfl_elo.csv" %>%
-  read_csv(col_names = TRUE, col_types = cols(), guess_max = 2000) %>%
+  read_csv(col_names = TRUE, col_types = cols(), guess_max = 3000) %>%
   filter(date > max(era3$date)) %>%
   filter(date < Sys.Date())
+
+# results538 %>%
+#   mutate(
+#     swap = neutral & !(row_number() %in% c(
+#       2937,3204,3471,3521,3564,3578,3788,3832,3847,3899,4005,4038,4054,4102,4113,4162,4272,4352,4367,4381
+#     )),
+#     tmp = team1,
+#     team1 = ifelse(swap, team2, tmp),
+#     team2 = ifelse(swap, tmp, team2),
+#     home.prob.qb.538 = ifelse(swap, qbelo_prob2, qbelo_prob1)
+#   ) %>%
+#   select(date, team1, team2, home.prob.qb.538) %>%
+#   inner_join(x = era3, by = c(date = "date", visitor.abbr = "team2", home.abbr = "team1")) %>%
+#   write.csv("data/nfl_results_2002-today.csv", row.names = FALSE)
+
 
 if(nrow(results538))
 {
