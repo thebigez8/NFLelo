@@ -31,9 +31,10 @@ if(nrow(results538))
   source("R/abbreviations.R")
   results.538.clean <- results538 %>%
     rename(home.abbr = "team1", visitor.abbr = "team2", home.elo.538 = "elo1_pre",
-           visitor.elo.538 = "elo2_pre", home.prob.538 = "elo_prob1",
+           visitor.elo.538 = "elo2_pre", home.prob.538 = "elo_prob1", home.prob.qb.538 = "qbelo_prob1",
            home.score = "score1", visitor.score = "score2") %>%
-    select(-elo_prob2, -elo1_post, -elo2_post) %>%
+    select(date, home.abbr, visitor.abbr, home.elo.538, visitor.elo.538, home.prob.538, home.prob.qb.538,
+           home.score, visitor.score, season, neutral, playoff) %>%
     mutate(
       playoff = as.integer(!is.na(playoff)),
       week = as.numeric(floor((date - as.Date("1920-08-25"))/7)),
@@ -48,7 +49,7 @@ if(nrow(results538))
   source("R/scrape_scores.R")
   source("R/scrape_qb_and_line.R")
 
-  pgs <- "https://www.pro-football-reference.com/years/2018/" %>%
+  pgs <- "https://www.pro-football-reference.com/years/2019/" %>%
     read_html() %>%
     html_nodes("#inner_nav ul div ul li a") %>%
     html_attr("href") %>%
